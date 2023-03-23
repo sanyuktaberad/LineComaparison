@@ -34,6 +34,7 @@ public class LineComparisonProblem {
 		if (length1 == length2) {
 			System.out.println("The given lines are equal.");
 		}
+		
 		else {
 			System.out.println("The given lines are not equal.");
 		}
